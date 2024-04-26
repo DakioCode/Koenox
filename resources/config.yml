@@ -1,0 +1,10 @@
+# ---------------- Configuration Globale du Plugin ----------------
+
+# ---------------
+# PARTIE POKEMONS
+# ---------------
+last_pokemon_id: 1
+last_fight_id: 0
+arena:
+  1: [0, 100, 0, "world"]
+  2: [10, 100, 0, "world"]

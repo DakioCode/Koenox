@@ -1,0 +1,25 @@
+name: Koenox
+version: 1.0.0
+api: [5.0.0]
+main: Koenox\Koenox
+
+depend: 
+  - Customies
+  - RankSystem
+
+author: KoenoxTeam
+authors:
+  - ElGodDakio
+
+permissions:
+  koenox.pokemons.spawn:
+    description: Allows the player to spawn Pokemons
+    default: op
+
+  koenox.command.clearentity:
+    description: Allows the player to use /clearentity
+    default: op
+
+  koenox.command.set_pokeball:
+    description: Allows the player to use /setpokéball
+    default: op
